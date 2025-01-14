@@ -1,0 +1,18 @@
+.task-container {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    /* border: solid magenta; */
+    height: 25%;
+}
+.task-container-labels {
+    display: flex;
+    flex-direction: column;
+}
+.task-container-labels-1 {
+    display: flex;
+}
+.task-container-buttons {
+    display: flex;
+    gap: 10px;
+}
