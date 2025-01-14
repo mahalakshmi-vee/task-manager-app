@@ -1,0 +1,16 @@
+table {
+    width: 100%;
+    height: 100%;
+}
+th, td {
+    border: 1px solid #000;
+}
+th:first-child, td:first-child {
+    width: 30%;
+}
+th:nth-child(2), td:nth-child(2) {
+    width: 60%;
+}
+th:nth-child(3), td:nth-child(3) {
+    width: 10%;
+}
